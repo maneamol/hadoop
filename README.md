@@ -10,4 +10,4 @@ word occurance
 
 tfidf
 
-cmpe 282
+for cmpe 282
